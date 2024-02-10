@@ -13,4 +13,4 @@ Taskify is a task management application that seamlessly integrates SurveySparro
 
 **Google Tasks Integration:** Seamlessly create tasks in Google Tasks and manage them efficiently.
 
-**User-friendly Interface: **Enjoy a user-friendly interface designed for ease of use and efficiency.
+**User-friendly Interface:** Enjoy a user-friendly interface designed for ease of use and efficiency.
