@@ -1,16 +1,25 @@
-# Taskify: Streamline Task Management with SurveySparrow Integration
+## https://ssdk.surveysparrow.dev/ssdk/2.0/assets/survey_client.jsdesk App Project
 
-Taskify is a task management application that seamlessly integrates SurveySparrow with Google Tasks, allowing users to convert survey responses into actionable tasks effortlessly. Whether you're a project manager, a customer support representative, or a small business owner, Taskify empowers you to stay organized, productive, and on top of your tasks.
+Congratulations on creating your App Project! Feel free to replace this text with your project description.
 
-**Features:**
+### Project folder structure explained
 
-**SurveySparrow Integration:** Connect your Taskify app to SurveySparrow account and convert survey responses directly into Googletasks.
-
-**Effortless Task Creation:** Convert survey responses into tasks in Google Tasks with just a few clicks.
-
-**Customizable Task Details:** Fill in task details such as task name, due date, priority, and notes to tailor tasks to your specific needs.
-
-**Google Tasks Integration:** Seamlessly create tasks in Google Tasks and manage them efficiently.
-
-**User-friendly Interface:** Enjoy a user-friendly interface designed for ease of use and efficiency.
-
+    .
+    ├── README.md                  This file.
+    ├── config                     Installation parameter configs.
+    │   ├── iparams.json           Installation parameter config in English language.
+    │   └── iparam_test_data.json  Installation parameter data for local testing.
+    └── manifest.json              Project manifest.
+    └── server                     Business logic for remote request and event handlers.
+        ├── lib
+        │   └── handle-response.js
+        ├── server.js
+        └── test_data
+            ├── onAppInstall.json
+            ├── onAppUninstall.json
+            ├── onContactCreate.json
+            ├── onContactUpdate.json
+            ├── onConversationCreate.json
+            ├── onExternalEvent.json
+            ├── onTicketCreate.json
+            └── onTicketUpdate.json

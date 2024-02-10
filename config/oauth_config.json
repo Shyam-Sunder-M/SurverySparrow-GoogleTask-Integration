@@ -1,0 +1,10 @@
+{
+    "client_id" : "229605608288-ug5rnr43vutbvnkdgr0pitjl9tsmd9uk.apps.googleusercontent.com",
+    "client_secret" :   "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",
+    "authorize_url":    "https://accounts.google.com/o/oauth2/auth",
+    "token_url":    "https://oauth2.googleapis.com/token",
+    "options":  {"response_type":"code",
+    "access_type":"offline",
+    "prompt":"consent",
+    "scope":["https://www.googleapis.com/auth/tasks"]}
+}
