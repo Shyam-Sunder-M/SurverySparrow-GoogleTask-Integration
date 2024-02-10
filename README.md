@@ -26,7 +26,7 @@ FOR INSTALLING SSDK REFER TO : https://sdk.surveysparrow.dev/docs/getting-starte
 
 USE NVM VERSION 18
 
-NVM USE 18
+nvm use 18
 
 Run the following command to verify the CLI installation.
 
