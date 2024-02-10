@@ -1,0 +1,233 @@
+{
+  "data": [
+    {
+      "id": 1001683935,
+      "completed_time": "2024-02-05T06:30:30.135Z",
+      "survey_id": 1000062406,
+      "contact_id": null,
+      "state": "COMPLETED",
+      "channel_id": 1000124135,
+      "language": "en",
+      "start_time": "2024-02-05T06:30:24.844Z",
+      "contact": null,
+      "channel": {
+        "name": "Web Link Share",
+        "type": "LINK",
+        "status": "ACTIVE"
+      },
+      "answers": [
+        {
+          "answer": 7,
+          "step": 10,
+          "question": "How satisfied are you with the competency of our customer support?",
+          "question_tags": [],
+          "question_id": 1000770293,
+          "skipped": false
+        },
+        {
+          "answer": "avg",
+          "answer_sentiment": null,
+          "question": "let us know your feedback?",
+          "question_tags": [],
+          "question_id": 1000770296,
+          "skipped": false
+        },
+        {
+          "answer": "2024-02-05T06:30:24.844Z",
+          "question_id": "startTime"
+        },
+        {
+          "answer": "2024-02-05T06:30:30.135Z",
+          "question_id": "submittedTime"
+        },
+        {
+          "answer": "null",
+          "question_id": "ip"
+        },
+        {
+          "answer": "COMPUTER",
+          "question_id": "deviceType"
+        },
+        {
+          "answer": "null",
+          "question_id": "location"
+        },
+        {
+          "answer": "Chrome 121.0.0.0",
+          "question_id": "browser"
+        },
+        {
+          "answer": "en-US",
+          "question_id": "browserLanguage"
+        },
+        {
+          "answer": "Windows NT 10.0",
+          "question_id": "os"
+        },
+        {
+          "answer": "Asia/Calcutta",
+          "question_id": "timeZone"
+        },
+        {
+          "question_id": "totalScore"
+        }
+      ],
+      "tags": [],
+      "variables": [],
+      "expressions": []
+    },
+    {
+      "id": 1001676521,
+      "completed_time": "2024-02-03T22:07:36.987Z",
+      "survey_id": 1000062406,
+      "contact_id": null,
+      "state": "COMPLETED",
+      "channel_id": 1000124135,
+      "language": "en",
+      "start_time": "2024-02-03T22:07:31.580Z",
+      "contact": null,
+      "channel": {
+        "name": "Web Link Share",
+        "type": "LINK",
+        "status": "ACTIVE"
+      },
+      "answers": [
+        {
+          "answer": 10,
+          "step": 10,
+          "question": "How satisfied are you with the competency of our customer support?",
+          "question_tags": [],
+          "question_id": 1000770293,
+          "skipped": false
+        },
+        {
+          "answer": "good",
+          "answer_sentiment": null,
+          "question": "let us know your feedback?",
+          "question_tags": [],
+          "question_id": 1000770296,
+          "skipped": false
+        },
+        {
+          "answer": "2024-02-03T22:07:31.580Z",
+          "question_id": "startTime"
+        },
+        {
+          "answer": "2024-02-03T22:07:36.987Z",
+          "question_id": "submittedTime"
+        },
+        {
+          "answer": "null",
+          "question_id": "ip"
+        },
+        {
+          "answer": "COMPUTER",
+          "question_id": "deviceType"
+        },
+        {
+          "answer": "null",
+          "question_id": "location"
+        },
+        {
+          "answer": "Chrome 121.0.0.0",
+          "question_id": "browser"
+        },
+        {
+          "answer": "en-US",
+          "question_id": "browserLanguage"
+        },
+        {
+          "answer": "Linux undefined",
+          "question_id": "os"
+        },
+        {
+          "answer": "Asia/Calcutta",
+          "question_id": "timeZone"
+        },
+        {
+          "question_id": "totalScore"
+        }
+      ],
+      "tags": [],
+      "variables": [],
+      "expressions": []
+    },
+    {
+      "id": 1001675836,
+      "completed_time": "2024-02-03T16:28:54.084Z",
+      "survey_id": 1000062406,
+      "contact_id": null,
+      "state": "COMPLETED",
+      "channel_id": 1000124135,
+      "language": "en",
+      "start_time": "2024-02-03T16:28:49.945Z",
+      "contact": null,
+      "channel": {
+        "name": "Web Link Share",
+        "type": "LINK",
+        "status": "ACTIVE"
+      },
+      "answers": [
+        {
+          "answer": 2,
+          "step": 10,
+          "question": "How satisfied are you with the competency of our customer support?",
+          "question_tags": [],
+          "question_id": 1000770293,
+          "skipped": false
+        },
+        {
+          "answer": "Bad",
+          "answer_sentiment": null,
+          "question": "let us know your feedback?",
+          "question_tags": [],
+          "question_id": 1000770296,
+          "skipped": false
+        },
+        {
+          "answer": "2024-02-03T16:28:49.945Z",
+          "question_id": "startTime"
+        },
+        {
+          "answer": "2024-02-03T16:28:54.084Z",
+          "question_id": "submittedTime"
+        },
+        {
+          "answer": "null",
+          "question_id": "ip"
+        },
+        {
+          "answer": "COMPUTER",
+          "question_id": "deviceType"
+        },
+        {
+          "answer": "null",
+          "question_id": "location"
+        },
+        {
+          "answer": "Chrome 121.0.0.0",
+          "question_id": "browser"
+        },
+        {
+          "answer": "en-US",
+          "question_id": "browserLanguage"
+        },
+        {
+          "answer": "Windows NT 10.0",
+          "question_id": "os"
+        },
+        {
+          "answer": "Asia/Calcutta",
+          "question_id": "timeZone"
+        },
+        {
+          "question_id": "totalScore"
+        }
+      ],
+      "tags": [],
+      "variables": [],
+      "expressions": []
+    }
+  ],
+  "has_next_page": false
+}
