@@ -45,19 +45,23 @@ If the satisfaction level is above 5, a new task is created in the "Positive-Rev
 
 If the satisfaction level is 5 or below, a new task is created in the "Negative-Review" list.
 
-Use Cases
+**Use Cases**
+
 Customer Satisfaction Surveys:
 
 Scenario: A company conducts customer satisfaction surveys to gather feedback on its products and services.
 Use Case: Upon completion of the survey, tasks are automatically created on Google Tasks to address any negative feedback received from customers. For example, tasks can be created to follow up with dissatisfied customers and resolve their issues.
+
 Employee Feedback Surveys:
 
 Scenario: An organization conducts employee feedback surveys to assess job satisfaction and identify areas for improvement.
 Use Case: After employees submit their feedback through the survey, tasks are generated to address any concerns or suggestions raised by the employees. For instance, tasks can be created to implement changes in workplace policies based on employee feedback.
+
 Product Feedback Surveys:
 
 Scenario: A product team gathers feedback from users through product feedback surveys to improve the user experience.
 Use Case: Upon completion of the survey, tasks are automatically generated to prioritize and implement suggested enhancements or fixes. For example, tasks can be created to address reported bugs or to develop new features requested by users.
+
 Event Feedback Surveys:
 
 Scenario: An event organizer collects feedback from attendees through post-event surveys to evaluate event satisfaction.
