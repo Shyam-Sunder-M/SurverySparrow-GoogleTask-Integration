@@ -9,7 +9,7 @@
       }
     }
   },
-  "whitelisted-domains": ["https://tasks.googleapis.com/tasks/v1/lists/MDg3NTg3MzQzMDkwODY1MjQ4MTY6MDow/tasks,https://www.googleapis.com/(*),https://www.googleapis.com/auth/tasks"],
+  "whitelisted-domains": ["https://tasks.googleapis.com"],
   "engines": {
     "node": "18.17.1",
     "ssdk": "0.1.10"
